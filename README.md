@@ -1,5 +1,7 @@
 # 🌟 mcp-agent-framework - Simplifying AI Integration for Everyone
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/yandatini-mcp-agent-framework)
+
 ## 🚀 Getting Started
 
 Welcome to the **mcp-agent-framework**! This application helps you connect different AI systems in a way that is easy and efficient. You do not need any programming knowledge to use it. Follow this guide to download and run the software.
